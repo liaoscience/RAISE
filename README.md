@@ -53,3 +53,6 @@ a) <lib name>_filteredJunctions.bed: circRNA_finder output
 b) <lib name>_total.txt: circRNA abundance
 b) <lib name>_total.txt: circRNA abundance detail
 
+
+any suggestion and question are welcome. email: liao_science@163.com
+
